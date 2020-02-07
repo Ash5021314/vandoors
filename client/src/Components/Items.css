@@ -40,3 +40,25 @@
     margin: 50px 0;
     text-align: center;
 }
+.alignCenter{
+    text-align: center;
+}
+.card-body{
+    padding: 10px 0;
+}
+.card,.card-footer{
+    border: none;
+}
+.h5{
+    font-size: 15px;
+}
+.card-text{
+    font-size: 13px;
+}
+.buttonCenter{
+    margin: 40px auto;
+    text-align: center;
+}
+.flip-box{
+    border: none;
+}

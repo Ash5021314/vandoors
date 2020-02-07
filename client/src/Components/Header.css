@@ -9,3 +9,19 @@
 .backGround{
     background-color: #128C7E;
 }
+.custom-bg{
+    font-family: inherit;
+}
+.custom-bg:hover {
+    background-color: #e4ded2;
+    color: #806729;
+    border-color: #e4ded2;
+}
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.modal-body p{
+    text-align: center;
+}

@@ -5,6 +5,7 @@ import Header from './Components/Header'
 import ControlledCarousel from './Components/ControlledCarousel'
 import About from './Components/About'
 import Items from './Components/Items'
+import Footer from "./Components/Footer";
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <ControlledCarousel/>
       <About/>
       <Items/>
+      <Footer/>
     </>
   );
 }

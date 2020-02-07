@@ -2,14 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09cffef4-4ea5-4010-9582-6734a5f426dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/Brends.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/Brends.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/InteriorDoors.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/IronDoors.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/0064d4dfb3c7b50c5cb50a653937fc2b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/05fabf13c5e4e87944717102af7b92d8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/0828a42fc8b79ba1df7c496f0b65647b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/1632ef9a06793187be9b35f4f8ec61d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/1787ca6446bf52d8aee28326321813c9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/20b2b59340c29e57cf872064cb46906b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/215fbe6ef9e52016e14fb833c92200e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/23833cf41ffb9da3c09fad179d293076.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/2769963d99165eef75af24adfb50f556.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/2c030d1f20968d5f2400699f4d7259cb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/376f70256c4feec3cb1ac1457318f79a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/38aada3f09d697e76e9c009469ac202c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/4e3273922270e1c11c722e00e61c55a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/5ea8beab87dcc4be244feeb0fb927987.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/5ee189ace3668307cd5d776cb3ea4b7a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/5fe425cf40c075432920fb836752f691.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/688f1790e186dc21c6c76d558a3954ae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/6ca29cd4524db1e3f218f2dbb86464aa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/703fc204ac384e34adf37331d653e426.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/715e8ba201020217791cb39a903bcfb1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/7fd973f08f79b187f3cc075a4b8cda65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/92137212ee3304576d11dd8e1a5a0a29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/9d76ab5ef8712b0989ef018be914542c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/a173be328a9b8b06182f748d5ee53ee4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/ae966cf48d374b481e33b0a9af2da8e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/b4d3954746c7d5051694540d41850f65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/b73411fbe9ad12c846e83cf685367df7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/b7560b7589cbed66b073cf588b57dc94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/bea56a4794a824a5a3add5ba13118916.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/c13c512d3e8582d446bfb9eadb66175c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/c3caa4dfd4abebd61606f3f50e8ac822.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/cd62bdf0a40a032d5f7e8529b4576314.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/cfcf830257983bc30f2e1ef97cda86f6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/d0d72009e827f9741370f0061ebec8af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/d8b22e51edeecf7525a16972e4accf05.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/df73be033f3df883f1b648762f880621.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/e2288a4d8254ab2ed1b04d3232e40260.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/f28a70443e6047d62e62f89d41d7daa8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/09267c67e1c9fb87f8b0e1a28af3aa3528347c83.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/1a52dd81ecd5d238162445b7d34ebe93123f4e45.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/23090fa3d10c9ff1284c182dee1390be3c2c1d1c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/240273b3fd0a2261265954eb1486e9e83b3cfda5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/24743f27d3402107b1d6f9f8e2a98b1bfb815b0d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2bf3dd204b3fb6c43ffc754aa81805de63519d14.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2bf951825e195ed929f8aebe9d64b10b85759233.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2cfab15b7d39018ab16fb57ae51ae1ef062b1cdd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2dc998385275efa0f741d4d53c4114d594174966.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2f07359c011c69099a29d473abb29a35e1c82fa4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/2f1661fd888d8cdb763b694e0ea90510726af83d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/41e1e64bc0334af6b3e2362739fe95e6b9649859.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/48e7ffb084bd4084d8899fe32c0bbd77cdbd876a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/5a1654e40e4282c287b5b41aa4810c7bbf6c27f3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/5b3460abec8e99a50c59bc1fa37302ded4145707.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/5c17ae9a661767458666e4aef2d5b13cb102f060.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/6c1b7284f2288db46bcc968225288ccfa494dcba.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/79dc4b8785bf363b2e8e5ecc59f527d3fbf7e605.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/7e58bfda6b5af46b1544a51f91c908398c901a66.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/880816eda05e65c3a686a2bd3c6fe53c8ca408a2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/89bea49d74e6ae0d11c84d3586fd3d43a7433c49.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/8d368530c2fc0276830e364f474f23a0276c5cee.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/977cf8572c183d98a8b655727eb16664b79bbec2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/9cf66691590d255ef0b31c9fd9f876cd3896977b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/9ff63e0cea3d47e78ad5d264ffccf7b2dc2812c4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/a50c4e7eaa9ee6eb07263df4c4be20051716e8d6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/aa515e827b7527d26c16228375c46d1654beb999.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/bb5aeee18b34380ce7b4b4cee2161f3c5e5c74a8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/bd7dc12de0543e5e87e3dba69e431a24cdadc00f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/c4a6ee0d186efb52d05f1eb8b821915a703dc8a6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/cd309bf4012e443b5b43062f11995df225b1ef87.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/d81b92da879984e14da91b60ae32b6f0fbefb723.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/e282576976c714a1c595293d71eb3daf50a6b5b8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/ec2745b80349aeeb299f19a2067b71d7aabd12f9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/ed586eafa23517e9ee5539a14c156e94ed88a49a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/ed62126638c5a98598856c5a08978c72b2cde911.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/f1c0e74e508ec6c4cbae2b7c967c93cd4f5065c5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/eslint-loader/f48d26b7ca26d15864ccf0bf42f973c876f35568.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Components/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Components/Items.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Components/Items.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Components/Items.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Components/Items.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="2" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../vandoors\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +155,9 @@
       <workItem from="1580940332401" duration="10000" />
       <workItem from="1580941199946" duration="7767000" />
       <workItem from="1580949260309" duration="66000" />
+      <workItem from="1580984095081" duration="5611000" />
+      <workItem from="1581013496733" duration="16069000" />
+      <workItem from="1581090617760" duration="2895000" />
     </task>
     <servers />
   </component>
@@ -74,9 +169,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#JavaScript/0.0.1366.728@0.0.1366.728" timestamp="1580948429552" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1580949179086">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1581013638084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580949179086" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581013638084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/Components/IronDoors.jsx</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/Components/Footer.jsx</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
