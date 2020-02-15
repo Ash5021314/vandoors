@@ -6,7 +6,6 @@ import data from '../data.json'
 import './ControlledCarousel.css'
 
 const ControlledCarousel = () => {
-  console.log(data)
   const [slide, setSlide] = useState([])
   useEffect(() => {
     setSlide(data.images.slideImages)
@@ -42,7 +41,6 @@ const ControlledCarousel = () => {
       )}
     </div>
   )
-
 }
 
 

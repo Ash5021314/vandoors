@@ -1,16 +1,18 @@
-.slide{
-    margin-top: 56px;
+.slide {
     background: #128C7E;
 }
-.slide img,.slide div{
+
+.slide img, .slide div {
     height: 100%;
     margin: 0 auto;
 }
-.slide img{
+
+.slide img {
     width: 60% !important;
     height: 400px;
 }
-.carouselHeader{
+
+.carouselHeader {
     text-align: center;
     color: white;
     padding: 20px;
