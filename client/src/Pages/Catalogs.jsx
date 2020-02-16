@@ -3,48 +3,51 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Card from 'react-bootstrap/Card'
 import CardDeck from 'react-bootstrap/CardDeck'
-import doors from '../interiorDoors'
+import initDoors from '../interiorDoors'
 import Container from 'react-bootstrap/Container'
 import Modal from 'react-bootstrap/Modal'
 
+//{
+//     title: 'title',
+//     frontImage: '',
+//     backImage: '',
+//     price: 123,
+//     description: 'description',
+//   }
+
 const Catalogs = () => {
-  const [door, setDoors] = useState({
-    title: 'title',
-    frontImage: '',
-    backImage: '',
-    price: 123,
-    description: 'description',
-  })
+  const [doors, setDoors] = useState([])
+  const [selectedDoor, setSelectedDoor] = useState([])
   const [show, setShow] = useState(false)
+
   useEffect(() => {
-    setDoors(doors)
+    setDoors(initDoors)
   }, [])
+
   return (
     <>
       <Modal show={show} onHide={setShow}>
         <Modal.Header closeButton>
-          <Modal.Title>{door.title}</Modal.Title>
+          <Modal.Title>{selectedDoor.title}</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-
+          title: {selectedDoor.title} <br/>
+          frontImage: {selectedDoor.frontImage} <br/>
+          backImage: {selectedDoor.backImage} <br/>
+          description: {selectedDoor.description} <br/>
+          price: {selectedDoor.price} <br/>
 
         </Modal.Body>
       </Modal>
       <Container>
         <h2 className="headTop">Каталог</h2>
         <CardDeck>
-          {!door.length ? <h2>Loading...</h2> : (
+          {!doors.length ? <h2>Loading...</h2> : (
             <Row>
               {
-                door.reverse().map((res, index) => {
+                doors.reverse().map((res, index) => {
                   return (<Col xs={6} md={3} key={index} onClick={() => {
-                      setDoors({
-                        frontImage: res.frontImage,
-                        title: res.title,
-                        backImage: res.backImage,
-                        price: res.price,
-                        description: res.description,
-                      })
+                      setSelectedDoor(res)
                       setShow(!show)
                     }}>
                       <Card className="mb-5">
