@@ -47,7 +47,7 @@ const Header = () => {
               <Nav.Link href="/">Главная</Nav.Link>
               <Nav.Link href="/advantage">Наши преимущества</Nav.Link>
               <Nav.Link href="/catalog">Каталог</Nav.Link>
-              <Nav.Link href="/contact">Контакты</Nav.Link>
+              <Nav.Link href="/contact">Расположение</Nav.Link>
             </Nav>
             <Button className="custom-bg" onClick={handleShow}>Вызвать замерщика</Button>
           </Navbar.Collapse>

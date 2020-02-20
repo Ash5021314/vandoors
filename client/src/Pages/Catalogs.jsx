@@ -7,13 +7,6 @@ import initDoors from '../interiorDoors'
 import Container from 'react-bootstrap/Container'
 import Modal from 'react-bootstrap/Modal'
 
-//{
-//     title: 'title',
-//     frontImage: '',
-//     backImage: '',
-//     price: 123,
-//     description: 'description',
-//   }
 
 const Catalogs = () => {
   const [doors, setDoors] = useState([])
